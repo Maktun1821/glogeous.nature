@@ -1,1 +1,0 @@
-# glogeous.nature
