@@ -1,0 +1,10 @@
+body{
+    background-image: url(image.g/5.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.btn btn-dark{
+margin-left: 220px;
+margin-top: 700px;
+}
